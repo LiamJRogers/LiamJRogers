@@ -11,7 +11,7 @@ to enhance my career.
 - **HTML, Javascript, CSS**
 - **PHP**
 - **Python**
-- **C#**
+
 
 ## 🛠️ Projects:
 * [Working on it]()
